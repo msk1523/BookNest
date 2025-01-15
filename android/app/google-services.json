@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "906994327000",
+    "project_id": "booknest-f0476",
+    "storage_bucket": "booknest-f0476.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906994327000:android:98b91ca3f9eba597bf66ad",
+        "android_client_info": {
+          "package_name": "com.example.boookie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906994327000-41ajb26vpv95rs3g5qshipt4b3s9fuaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK7gN0DNeHmrVDWL_qoPkVj084Ojfs2_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906994327000-41ajb26vpv95rs3g5qshipt4b3s9fuaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906994327000-1pt9h2qa0dkl8g052t94pmi4gs6abo2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boookie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
