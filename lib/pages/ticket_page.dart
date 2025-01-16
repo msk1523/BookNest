@@ -69,7 +69,7 @@ class TicketPage extends StatelessWidget {
 
   Widget _buildTicketPreview(BuildContext context, BoxConstraints constraints) {
     return Container(
-      height: constraints.maxHeight * 0.2,
+      height: constraints.maxHeight * 0.35,
       width: double.infinity,
       decoration: BoxDecoration(
         color: Colors.white12,

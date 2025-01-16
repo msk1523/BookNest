@@ -1,6 +1,7 @@
 import 'package:boookie/firebase_options.dart';
 import 'package:boookie/pages/home_page.dart';
 import 'package:boookie/pages/splash_screen.dart';
+import 'package:boookie/pages/ticket_page.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'BookNest',
       debugShowCheckedModeBanner: false,
-      home: SplashScreenPage(),
+      home: TicketPage(eventName: "Ikigai", eventPrice: "800/-"),
     );
   }
 }
